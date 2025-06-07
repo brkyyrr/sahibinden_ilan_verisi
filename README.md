@@ -105,5 +105,5 @@ Feel free to contribute or open issues & pull requests!
 
 ---
 
-> © 2025 | Geliştirici: [Your Name or GitHub Username]  
+> © 2025 | Geliştirici: Berkay Y. 
 > This project is for educational and personal use only.
